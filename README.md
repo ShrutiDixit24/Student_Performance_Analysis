@@ -64,6 +64,10 @@ Gender-wise average score comparison
 Impact of test preparation on performance
 
 Subject-wise average scores
+## 📊 Dashboard Preview
+
+![Student Performance Dashboard](output/student_dashboard.png)
+
 
 📄 Output Files
 
